@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://35.183.48.100:8081/repository/javaproject_fe_releases/</url>
+	      <url> http://35.183.48.100:8081/landmark/repository/javaproject_fe_releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url> http://35.183.48.100:8081/repository/javaproject_fe_snapshot/
+	      <url> http://35.183.48.100:8081/landmark/repository/javaproject_fe_snapshot/
 </url>
 	    </snapshotRepository>
 	    
